@@ -1,2 +1,2 @@
 # rainbow-poem
-this is the poem
+Project Rainbow based on Unicorn has been initiated with Vibgyor
